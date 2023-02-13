@@ -33,7 +33,6 @@
     ],
     "exclude_matches":[],
     "js": ["contentscript.js"]
-  }],
-  "update_url": "https://extensionhosting.web.app/blockforms/updates.xml"
+  }]
 }
 
